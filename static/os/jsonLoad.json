@@ -9,5 +9,16 @@
             "svelte",
             "HonoJS"
         ]
+    },
+    {
+        "image": "https://drive.google.com/file/d/1lYfppxX7id7_pKrDa-XrqqJFf3_EcVnF/view?usp=sharing",
+        "name": "HUZAIFA QUADRI",
+        "section": "Cs Core-F",
+        "college": "Medicaps University",
+        "skills": [
+            "FLutter - App Dev",
+            "Video Editing - Premere Pro"
+        ]
     }
+
 ]
